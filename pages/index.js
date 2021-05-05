@@ -1,4 +1,4 @@
-function Home() {
+function Home teste() {
     return <div>Home</div>
 }
 
