@@ -1,5 +1,5 @@
 function Home() {
-    return <div>iShopee!!!!</div>
+    return <img source="/img/logo-principal.png"/>
 }
 
 export default Home
