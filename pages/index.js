@@ -1,5 +1,5 @@
 function Home() {
-    return <img source="/img/logo-principal.png"/>
+    return <div><img source="/img/logo-principal.png"/></div>
 }
 
 export default Home
