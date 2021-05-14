@@ -7,8 +7,6 @@ function Home() {
             <image
                 src="/webMockup.png"
                 alt="webpage design"
-                width={500}
-                height={500}
             />
         </div>
     )
