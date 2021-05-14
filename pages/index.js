@@ -7,8 +7,6 @@ function Home() {
             <image
                 src="https://github.com/tfpresentes/landing-page/raw/main/img/webMockup.png"
                 alt="webpage design"
-                width={500}
-                height={500}
             />
         </div>
     )
