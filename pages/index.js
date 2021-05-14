@@ -5,7 +5,7 @@ function Home() {
         <div>
             <h1>iShopee!!!</h1>
             <image
-                src="https://github.com/tfpresentes/landing-page/raw/main/img/webMockup.png"
+                src="/webMockup.png"
                 alt="webpage design"
                 width={500}
                 height={500}
