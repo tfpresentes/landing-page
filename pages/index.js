@@ -5,8 +5,10 @@ function Home() {
         <div>
             <h1>iShopee!!!</h1>
             <image
-                src="/webMockup.png"
+                src="./img/webMockup.png"
                 alt="webpage design"
+                width={500}
+                height={500}
             />
         </div>
     )
