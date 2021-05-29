@@ -1,6 +1,6 @@
-var app = new Vue({
-    el:'app',
-    data: {
-        text: 'iShopeee!!!'
-    }
-});
+// var app = new Vue({
+//     el:'app',
+//     data: {
+//         text: 'iShopeee!!!'
+//     }
+// });
